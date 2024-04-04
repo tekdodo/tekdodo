@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página celulares</title>
+    <style>
+
+  body{
+    background-color: #000000;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 4px double red;
+   padding: 20px 20px 20px 20px;
+   font-family: Arial;
+    }
+h1{color: black; text-shadow: brown:2px 2px 2px 2px; }
+ h2{color: white; }
+ img{color: yellow; border: 4px solid #00008B; transform: translateX(28%); }
+ h2.borda1{background: color}
+
+    </style>
+        </head>
+<body>
+</html>
