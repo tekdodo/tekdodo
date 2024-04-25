@@ -25,20 +25,20 @@ h1{color: black; text-shadow: brown 2px 2px 2px 2px; }
     width: 76px; 
     height: 24px;
     transform: rotate(0deg);
-   text-aling: middle;
-   margin-top: -45px;
-   margin-left: 230px;
-      }
+    text-align: middle;
+    margin-top: -45px;
+    margin-left: 230px;
+    }
     h2.borda2{background: rgb(0, 0, 0);
-      color: #FFF;
+    color: #FFF;
     padding-left: 10px;  
     padding-right: 10px;
     margin-bottom: 10px;
     font-size: 18px; 
     width: 70px; 
-    height: 20px
-   text-aling: middle;
-   transform: rotate(0deg);
+    height: 20px;
+    text-align:middle;
+    transform: rotate(0deg);
    margin-top: -31px;
    margin-left: 485px;
     }   
@@ -49,8 +49,8 @@ h1{color: black; text-shadow: brown 2px 2px 2px 2px; }
     margin-bottom: 10px;
     font-size: 18px; 
     width: 76px; 
-    height: 24px
-   text-aling: middle;
+    height: 24px;
+    text-align: middle;
    transform: rotate(0deg);
    margin-top: -31px;
    margin-left: 745px;
@@ -62,8 +62,8 @@ h1{color: black; text-shadow: brown 2px 2px 2px 2px; }
     margin-bottom: 10px;
     font-size: 18px; 
     width: 76px; 
-    height: 24px
-   text-aling: middle;
+    height: 24px;
+   text-align: middle;
    transform: rotate(0deg);
    margin-top: -31px;
    margin-left: 1000px;
@@ -75,8 +75,8 @@ h1{color: black; text-shadow: brown 2px 2px 2px 2px; }
     margin-bottom: 10px;
     font-size: 18px; 
     width:76px; 
-    height: 24px
-   text aling middle;
+    height: 24px;
+    text-align: middle;
    transform: rotate(0deg); 
    margin-top: -31px;
    margin-left: 1250px;
