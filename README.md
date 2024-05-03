@@ -54,14 +54,14 @@ color:	rgb(241, 233, 233);
 
 <body>
 
-<h1 class="titulo">Pizzaria da Ronda</h1>
+<h1 class="titulo">Cafeteria da Ronda</h1>
 <br>
-<img src="cafe.jpeg" alt="imagem de pizza" width="500" height="150" border="4">
-<img src="sandu.jpeg" alt="imagem de pizza" width="500" height="150" border="4">
-<img src="lanche.jpeg" alt="imagem de pizza" width="500" height="150" border="4">
-<img src="pão.jpeg" alt="imagem de pizza" width="500" height="150" border="4">
-<img src="coxinha.jpeg" alt="imagem de pizza" width="500" height="150" border="4">
-<img src="coxinha2.jpeg" alt="imagem da pizza" width="500" height="150" border="4">
+<img src="cafe.jpeg" alt="imagem de cafe" width="500" height="150" border="4">
+<img src="sandu.jpeg" alt="imagem de Sanduíche" width="500" height="150" border="4">
+<img src="lanche.jpeg" alt="imagem de lanche" width="500" height="150" border="4">
+<img src="pão.jpeg" alt="imagem de pão" width="500" height="150" border="4">
+<img src="coxinha.jpeg" alt="imagem de coxinha" width="500" height="150" border="4">
+<img src="coxinha2.jpeg" alt="imagem da coxinha no copo" width="500" height="150" border="4">
 
 <h2 class="sub-titulo">Cardápio - Salgados</h2>
 <br>
@@ -84,33 +84,28 @@ color:	rgb(241, 233, 233);
 <hr>
 </ol>
 <br>
-<img src="tortadl.jpeg" alt="imagem de pizza" width="300" height="130" border="4">
-<img src="trotadeM.jpeg" alt="imagem de pizza" width="300" height="130" border="4">
-<img src="bolo.jpeg" alt="imagem de pizza" width="300" height="130" border="4">
-<img src="bolochocolate.jpeg" alt="imagem de pizza" width="300" height="130" border="4">
-<img src="suco.jpeg" alt="imagem de pizza" width="300" height="130" border="4">
-<img src="refrigerante.jpeg" alt="imagem da pizza" width="300" height="130" border="4">
+<img src="tortadel.jpeg" alt="imagem da torta" width="500" height="130" border="4">
+<img src="tortadeM.jpeg" alt="imagem da torta" width="500" height="130" border="4">
+<img src="bolo.jpeg" alt="imagem de bolo" width="500" height="130" border="4">
+<img src="bolochocolate.jpeg" alt="imagem de bolo de chocolate" width="500" height="130" border="4">
+<img src="suco.jpeg" alt="imagem de suco" width="500" height="130" border="4">
+<img src="refrigerante.jpeg" alt="imagem de refrigerante" width="500" height="130" border="4">
 
-<h2 class="sub-titulo">Cardápio - Pizzas Doces</h2>
+<h2 class="sub-titulo">Cardápio - Lanches doces e bebidas</h2>
 <br>
 <ol>
-<li class="menu">Chocolate com Morango - R$40,00</li>
-<p class="menu- texto">Ingredientes: cobertura de Chocolate meio amargo, morangos fatiados</p>
+<li class="menu">Torta de limão - R$17,00</li>
 <hr>
-<li class="menu">Romeu e Julieta - R$40,00</li>
-<p class="menu- texto">Ingredientes: goiabada em pedaços, mussarela ralada, canela-da-china em pó</p>
+<li class="menu">Torta de morango - R$17,00</li>
 <hr>
-<li class="menu">bonoffee - R$42,00</li>
-<p class="menu- texto">Ingredientes: mussarela ralada, doce de leite, banana em rodelas</p>
+<li class="menu">Bolo - R$10,00</li>
+
 <hr>
-<li class="menu">Chocolate com coco - R$38,00</li>
-<p class="menu- texto">Ingredientes: cobertura de chocolate meio amargo, coco ralado</p>
+<li class="menu">Bolo de chocolate - R$15,00</li>
 <hr>
-<li class="menu">Chocolate com Banana - R$38,00</li>
-<p class="menu- texto">Ingredientes: banana, chocolate, granulado</p>
+<li class="menu">Suco - R$5,00</li>
 <hr>
-<li class="menu">Chocolate branco com MM - R$40,00</li>
-<p class="menu- texto">Ingredientes: chocolate branco e mm</p>
+<li class="menu">Refrierante - R$7,00</li>
 <hr>
 <p>Whatsapp: (44) 99877-4433 <br>
 Instagram: @CafeteriaRonda <br>
@@ -118,3 +113,4 @@ Facebook: CafeteriadaRonda
 </p>
 
 </body>
+</html>
