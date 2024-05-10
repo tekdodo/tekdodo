@@ -1,0 +1,115 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concessionaria de luxo</title>
+    <style>
+
+  body{
+    background-color: #000000;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 4px double red;
+   padding: 30px 30px 30px 30px;
+   font-family: Arial;
+    }
+h1{color: black; text-shadow: brown 2px 2px 2px 2px; }
+ h2{color: white; }
+ img{color: yellow; border: 3px double #484f77; transform: translateX(28%); }
+ h2.borda1{background: rgb(0, 0, 0);
+    color: #ffffff;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 76px; 
+    height: 24px;
+    transform: rotate(0deg);
+    text-align: middle;
+    margin-top: -45px;
+    margin-left: 230px;
+    }
+    h2.borda2{background: rgb(0, 0, 0);
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 70px; 
+    height: 20px;
+    text-align:middle;
+    transform: rotate(0deg);
+   margin-top: -31px;
+   margin-left: 485px;
+    }   
+   h2.borda3{background:black; 
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 76px; 
+    height: 24px;
+    text-align: middle;
+   transform: rotate(0deg);
+   margin-top: -31px;
+   margin-left: 745px;
+   }
+   h2.borda4{background: black;
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 76px; 
+    height: 24px;
+   text-align: middle;
+   transform: rotate(0deg);
+   margin-top: -31px;
+   margin-left: 1000px;
+  }
+  h2.borda5{background: black;
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width:76px; 
+    height: 24px;
+    text-align: middle;
+   transform: rotate(0deg); 
+   margin-top: -31px;
+   margin-left: 1250px;
+   }
+   .rodapé{width: 1400px; height: 70px; margin-top: 36px; font-size: 32px;text-align: center;color: red;text-shadow: 2px 2px 2px blue;
+    }
+
+    
+      </style>
+        </head>
+<body>
+</html>
+<h1 align= "center">Carros luxuosos e esportivos</h1>
+</marquee bgcolor="red"  behavior="scrool">
+<h2 align="center">Conheça as marcas de carros mais vendidos do mercado do ano de 2024!</h2>
+</marquee>
+<img src="carro1.jpeg" width="210" height="290">
+<img src="carro2.jpeg" width="210" height="290">
+<img src="carro3.jpeg" width="210" height="290">
+<img src="carro4.jpeg" width="210" height="290">
+<img src="carro5.jpeg" width="210" height="290">
+<img src="carro6.jpeg" width="210" height="290">
+<marquee bgcolor="#FF6347" behavior="pass" direction="right" >
+  <h2 align="left">Ofertas validas apenas ate o final de outubro!</h2>
+</marquee>
+<img src="carro7.jpeg" width="250" height="290">
+<img src="carro8.jpeg" width="250" height="290">
+<img src="carro9.jpeg" width="250" height="290">
+<img src="carro10.jpeg" width="250" height="290">
+<img src="carro11.jpeg" width="250" height="290">
+<h2 class="borda1">R$37.000,00</h2>
+<h2 class="borda2">R$25.000,00</h2>
+<h2 class="borda3">R$39,999,99</h2>
+<h2 class="borda4">R$18.000,00</h2>
+<h2 class="borda5">R$22.000,35</h2>
+<div class="rodapé">Aceitamos todos os cartões! Aceitamos Pix!</div>
