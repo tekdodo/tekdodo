@@ -1,0 +1,80 @@
+- 👋 Hi, I’m @tekdodo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+tekdodo/tekdodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    
+
+
+</head>
+<body>
+<div>{
+    <style>
+        background-color:yellow;
+        font-family:Arial;
+        background-image> linearGradient;
+}
+div{
+     background-color:yellow;
+     top:24%;
+     left: 24%;
+     transform:: translate(-24%, -24%);
+     border-radius:15px;
+     color:white;
+
+}
+     input{
+     padding: 15px;
+     border: none;
+     outline: none;
+     font-size: 15px;
+     }
+     button{
+     background-color: dodgerblue;
+     border: padding: 15px;
+     width: 100%;
+     border-radius:10px;
+     color:white;
+     font-size: medium;
+     }
+     button:hover{
+     background-color: deepskyblue;
+    cursor: pointer;
+                }
+
+
+        
+        
+        
+            </style>
+
+            
+
+    <div classe="tela-de-cadastro">
+       
+        <h1 aling=center>cadastrar</h1>
+        <input type="text" placeholder="email de conta">
+        <br><br>
+        <input type="text" placeholder="nome">
+        <br><br>
+        <input type="password" placeholder="criar senha">
+        <br><br>
+        <botton>enviar</botton>
+    </div>
+    
+</body>
+</html>
