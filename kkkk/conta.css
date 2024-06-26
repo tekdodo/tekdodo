@@ -1,0 +1,34 @@
+
+header {
+    height: 100vh;
+    width: 100vw;
+    background-color: #d5c0d6;
+}
+h1 {
+    height: 100vh;
+    width: 50vw;
+    background-color: #feeaff;
+    background-repeat:repeat; 
+    background-position: center;
+    flex-direction: column;
+    background-attachment: fixed;
+    min-height: 600;
+    margin: 2%;
+    border: black;
+}
+.container{
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+blockquote
+form{
+    left: unset; display: block;
+    flex-direction: column;
+    background: #ffd209;
+}
+div{
+    position: relative;
+}
