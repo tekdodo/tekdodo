@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu-item {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.reels {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.reel {
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.reel img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.reel:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.add-remove {
+    text-align: center;
+    margin: 20px;
+}
+
+.add-remove button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #3897f0;
+    color: #fff;
+}
+
+.add-remove button:hover {
+    background-color: #2680f0;
+}
+
+.messages {
+    padding: 20px;
+    border-top: 1px solid #ddd;
+    overflow-y: scroll;
+    max-height: 300px;
+}
+
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+}
+
+.message.self {
+    background-color: #e0f7fa;
+    align-self: flex-end;
+}
+
+.message .sender {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.message .content {
+    font-size: 14px;
+}
+
+.message.self .content {
+    text-align: right;
+}
+
+.input-message {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+.input-message input[type="text"] {
+    flex: 1;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.input-message button {
+    padding: 8px 20px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #3897f0;
+    color: #fff;
+}
+
+.input-message button:hover {
+    background-color: #2680f0;
+}
