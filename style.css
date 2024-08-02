@@ -1,0 +1,100 @@
+body{
+    background-color: #000000;
+   margin-left: 10%;
+   margin-right: 10%;
+   border: 4px double red;
+   padding: 30px 30px 30px 30px;
+   font-family: Arial;
+    }
+  h1{color: black; text-shadow: brown 2px 2px 2px 2px; }
+  h2{color: white; }
+  img{color: yellow; border: 3px double #484f77; transform: translateX(28%); }
+  h2.borda1{background: rgb(0, 0, 0);
+    color: #ffffff;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 76px; 
+    height: 24px;
+    transform: rotate(0deg);
+    text-align: middle;
+    margin-top: -45px;
+    margin-left: 230px;
+    }
+    h2.borda2{background: rgb(0, 0, 0);
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 70px; 
+    height: 20px;
+    text-align:middle;
+    transform: rotate(0deg);
+    margin-top: -31px;
+    margin-left: 485px;
+    }   
+    h2.borda3{background:black; 
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 76px; 
+    height: 24px;
+    text-align: middle;
+    transform: rotate(0deg);
+    margin-top: -31px;
+    margin-left: 745px;
+   }
+    h2.borda4{background: black;
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width: 76px; 
+    height: 24px;
+    text-align: middle;
+    transform: rotate(0deg);
+    margin-top: -31px;
+    margin-left: 1000px;
+  }
+    h2.borda5{background: black;
+    color: #FFF;
+    padding-left: 10px;  
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px; 
+    width:76px; 
+    height: 24px;
+    text-align: middle;
+    transform: rotate(0deg); 
+    margin-top: -31px;
+    margin-left: 1250px;
+   }
+   .rodapé{width: 1400px; height: 70px; margin-top: 36px; font-size: 32px;text-align: center;color: red;text-shadow: 2px 2px 2px blue;
+    }
+    a{
+      text-align: center;
+      margin-left: 40px;
+      margin-right: 35px;
+      padding-right: 10px;
+      
+    }
+    .container{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 60px;
+    }
+    .titulo {
+      color: white;
+      text-size-adjust: 200px;
+    }
+    .titulo2{
+color: white;
+
+    }
