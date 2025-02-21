@@ -1,0 +1,10 @@
+# 21/02/2025
+# Desenvolvimento de sistemas - Python
+# EXEMPLO DE LAÇOS
+# ENQUANTO (Se condição verdadeira): -> Executa todo o código que estádentro do laço while
+# ENQUANTO (Se condição falsa): -> para a execução
+contador = 1 # inicia um contador
+while (contador <= 10):
+    Print ("Olá", contador) # imprime Olá de 1 até 10
+    contador  = contador + 1 # soma + 1 ao contador para executar o while novamente
+print("Este print está fora do laço")
