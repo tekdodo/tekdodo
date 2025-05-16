@@ -1,0 +1,81 @@
+import { Ionicons } from "@expo/vector-icons";
+import { StyleSheet, Text, View } from "react-native";
+
+// npm install expo-image (usar este código no terminal)
+
+
+export default function Profissional() {
+  return (
+    <View style={styles.container} >
+      <View style = {styles.containerConteudo}>
+        <View style = {styles.containerNome}>
+          <Text style={styles.nome}></Text>
+        </View>
+        <Text style = {styles.linha}>
+          _______________________________________
+        </Text>
+        <View style = {styles.containerDados}>
+        <Ionicons name="build" size={24} color="black" />
+          <Text style = {styles.textoDados}>Desenvolvedor de sistemas</Text>
+        </View>
+        <View style = {styles.containerDados}>
+          <Ionicons name="school" size={24} color="black" />
+          <Text style = {styles.textoDados}>Diploma de certificado do GERAR</Text>
+        </View>
+        <View style = {styles.containerDados}>
+          <Ionicons name="school" size={24} color="black" />
+          <Text style = {styles.textoDados}>Ensino fundamental completo</Text>
+        </View>
+        <View style = {styles.containerDados}>
+          <Ionicons name="person" size={24} color="black" />
+          <Text style = {styles.textoDados}>Ingles intermediario</Text>
+        </View>
+        
+      </View>
+    </View>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    backgroundColor: "cyan"
+  },
+  containerImg: {
+    flex: 1,
+    paddingTop: 60,
+  },
+  estiloFoto: {
+    width: 300,
+    height: 300,
+  },
+  containerConteudo: {
+    flex: 1
+  },
+  containerNome:{
+    alignItems:"center",
+  },
+  nome: {
+    fontSize: 40,
+    color: "Black",
+    fontWeight: "bold",
+    
+  },
+  linha:{
+    color: "black",
+    fontSize: 20,
+    marginBottom: 20
+  },
+  containerDados: {
+    marginBottom: 8,
+    flexDirection: "row",
+    alignItems: "center",
+  },
+  textoDados: {
+    marginLeft: 10,
+    color: "Black",
+    fontSize: 24,
+  }
+})
